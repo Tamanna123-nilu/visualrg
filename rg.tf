@@ -5,8 +5,8 @@ resource "azurerm_resource_group" "example" {
     name = krishna
   }
 }
-resource "azurerm_resource_group" "vm" {
-  name     = "vm"
+resource "azurerm_resource_group" "tttt" {
+  name     = "tttt"
   location = "east us"
   tags = {
     name = krishna
